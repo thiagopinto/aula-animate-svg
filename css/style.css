@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+article {
+    margin: 0 auto;
+    border: solid 1px #000;
+    width: 800px;
+}
+
+article section {
+    width: 90%;
+    margin: 0 auto;
+}
+
+article img {
+    width: 100%;
+    margin: 0 auto;
+}
